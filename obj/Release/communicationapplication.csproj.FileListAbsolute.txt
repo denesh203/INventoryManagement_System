@@ -1,0 +1,140 @@
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\Database1.mdf
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\Database1_log.ldf
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\communicationapplication.exe.config
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\communicationapplication.exe
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\communicationapplication.pdb
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.Form1.resources
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.exe
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.pdb
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\bin\Release\Database1.mdf
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\bin\Release\Database1_log.ldf
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\bin\Release\communicationapplication.exe.config
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\bin\Release\communicationapplication.exe
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\bin\Release\communicationapplication.pdb
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.Form1.resources
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.exe
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.pdb
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\bin\Release\netchartdir.dll
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\bin\Release\netchartdir.xml
+C:\Users\user\Desktop\testingfinal\New folder\2communicationapplication\obj\Release\communicationapplication.csproj.CopyComplete
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\bin\Release\Database1.mdf
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\bin\Release\Database1_log.ldf
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe.config
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\bin\Release\communicationapplication.pdb
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\bin\Release\netchartdir.dll
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Form1.resources
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CopyComplete
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.exe
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.pdb
+C:\Users\user\Desktop\testingfinal\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Form2.resources
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\bin\Release\Database1.mdf
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\bin\Release\Database1_log.ldf
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe.config
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\bin\Release\communicationapplication.pdb
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\bin\Release\netchartdir.dll
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Form1.resources
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CopyComplete
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.exe
+C:\Users\user\Desktop\testing\tabcontrol\2communicationapplication\obj\Release\communicationapplication.pdb
+D:\New folder\tabcontrol\2communicationapplication\bin\Release\Database1.mdf
+D:\New folder\tabcontrol\2communicationapplication\bin\Release\Database1_log.ldf
+D:\New folder\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe.config
+D:\New folder\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe
+D:\New folder\tabcontrol\2communicationapplication\bin\Release\communicationapplication.pdb
+D:\New folder\tabcontrol\2communicationapplication\bin\Release\netchartdir.dll
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Form1.resources
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CopyComplete
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.exe
+D:\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.pdb
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\Database1.mdf
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\Database1_log.ldf
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe.config
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\communicationapplication.pdb
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\netchartdir.dll
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Form1.resources
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CopyComplete
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.exe
+D:\New folder\New folder\tabcontrol\2communicationapplication\obj\Release\communicationapplication.pdb
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\BouncyCastle.Crypto.dll
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\GemBox.Pdf.dll
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\Pkcs11Interop.dll
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\GemBox.Pdf.xml
+D:\New folder\New folder\tabcontrol\2communicationapplication\bin\Release\Pkcs11Interop.xml
+C:\tabcontrol\2communicationapplication\bin\Release\Database1.mdf
+C:\tabcontrol\2communicationapplication\bin\Release\Database1_log.ldf
+C:\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe.config
+C:\tabcontrol\2communicationapplication\bin\Release\communicationapplication.exe
+C:\tabcontrol\2communicationapplication\bin\Release\communicationapplication.pdb
+C:\tabcontrol\2communicationapplication\bin\Release\BouncyCastle.Crypto.dll
+C:\tabcontrol\2communicationapplication\bin\Release\GemBox.Pdf.dll
+C:\tabcontrol\2communicationapplication\bin\Release\netchartdir.dll
+C:\tabcontrol\2communicationapplication\bin\Release\Pkcs11Interop.dll
+C:\tabcontrol\2communicationapplication\bin\Release\GemBox.Pdf.xml
+C:\tabcontrol\2communicationapplication\bin\Release\Pkcs11Interop.xml
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Form1.resources
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.csproj.CopyComplete
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.exe
+C:\tabcontrol\2communicationapplication\obj\Release\communicationapplication.pdb
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\WindowsFormsApp1.Form1.resources
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.exe
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.pdb
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\Database1.mdf
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\Database1_log.ldf
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\communicationapplication.exe.config
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\communicationapplication.exe
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\communicationapplication.pdb
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\BouncyCastle.Crypto.dll
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\GemBox.Pdf.dll
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\netchartdir.dll
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\Pkcs11Interop.dll
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\GemBox.Pdf.xml
+F:\Abc Project\inventory Management system\2communicationapplication\bin\Release\Pkcs11Interop.xml
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.csproj.CopyComplete
+F:\Abc Project\inventory Management system\2communicationapplication\obj\Release\communicationapplication.Form2.resources
